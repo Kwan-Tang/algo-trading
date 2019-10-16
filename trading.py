@@ -181,4 +181,4 @@ def main(symbol):
     print(account.account_info())
 
 if __name__ == '__main__':
-    
+    main('SPY')
