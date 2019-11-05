@@ -1,3 +1,3 @@
-# stock-trading-flask
+# algo-trading
 
-A simple flask application that utilizes both IEX API and TD Ameritrade API to build a trading algorithm that is used in the Alpaca Markets paper trading account.
+This an algorithmic trading application that executes trades based on some trading patterns that it recognizes in the open market.  The application will connect to Alpaca paper account to executes trades in the live environment for testing purposes.
